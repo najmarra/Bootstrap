@@ -16,4 +16,4 @@ Fitur:
 
 Tampilan:
 
-<img width="1904" height="883" alt="Screenshot 2025-09-30 213031" src="https://github.com/user-attachments/assets/9211b821-8ed6-47d2-b9a1-eabe08068a56" />
+<img width="1800" height="800" alt="Screenshot 2025-09-30 213031" src="https://github.com/user-attachments/assets/9211b821-8ed6-47d2-b9a1-eabe08068a56" />
